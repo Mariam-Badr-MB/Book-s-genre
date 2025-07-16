@@ -15,7 +15,7 @@ Identify clusters of books with similar themes or topics (micro-genres) without 
 
 - **Natural Language Processing (NLP)** for text cleaning:
   - Lowercasing
-  - Removing punctuation and stopwords
+  - Removing stopwords
   - Lemmatization
 - **TF-IDF Vectorization** to convert text into numerical features
 - **KMeans Clustering** to group books into clusters
