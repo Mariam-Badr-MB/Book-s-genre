@@ -63,7 +63,7 @@ The dataset contains over 6 million book entries. For this project:
 
 ## 💾 Output Sample
 
-| Title                         | Cluster |
+| Title                         | genre |
 |------------------------------|---------|
 | The Secret Garden            | 2       |
 | A Brief History of Time      | 0       |
@@ -71,14 +71,6 @@ The dataset contains over 6 million book entries. For this project:
 
 ---
 
-## 🚀 Future Improvements
-
-- Test with different clustering algorithms (DBSCAN, HDBSCAN)
-- Try using word embeddings (Word2Vec, BERT)
-- Build interactive cluster visualizations (Plotly, Streamlit)
-- Use full dataset with optimized performance
-
----
 
 ## 👩‍💻 Author
 
