@@ -84,6 +84,7 @@ The dataset contains over 6 million book entries. For this project:
 
 **Mariam Badr**  
 Faculty of Computers & Artificial Intelligence, Cairo University
+[GitHub](https://github.com/Mariam-Badr-MB) - [LinkedIn](https://www.linkedin.com/in/mariambadr13/)
 
 ---
 
